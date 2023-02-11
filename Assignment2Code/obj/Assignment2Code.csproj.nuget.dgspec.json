@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/Assignment2Code.csproj": {}
+  },
+  "projects": {
+    "/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/Assignment2Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/Assignment2Code.csproj",
+        "projectName": "Assignment2Code",
+        "projectPath": "/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/Assignment2Code.csproj",
+        "packagesPath": "/Users/mateo/.nuget/packages/",
+        "outputPath": "/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mateo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

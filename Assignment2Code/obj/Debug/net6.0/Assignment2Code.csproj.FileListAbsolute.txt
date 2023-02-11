@@ -1,0 +1,15 @@
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/bin/Debug/net6.0/Assignment2Code
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/bin/Debug/net6.0/Assignment2Code.deps.json
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/bin/Debug/net6.0/Assignment2Code.runtimeconfig.json
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/bin/Debug/net6.0/Assignment2Code.dll
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/bin/Debug/net6.0/Assignment2Code.pdb
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.csproj.AssemblyReference.cache
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.AssemblyInfoInputs.cache
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.AssemblyInfo.cs
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.csproj.CoreCompileInputs.cache
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.dll
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/refint/Assignment2Code.dll
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.pdb
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/Assignment2Code.genruntimeconfig.cache
+/Users/mateo/Documents/Conestoga/Programing Concepts/Assignment2/Assignment2Code/Assignment2Code/obj/Debug/net6.0/ref/Assignment2Code.dll
